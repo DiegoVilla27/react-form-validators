@@ -4,7 +4,7 @@ React Form Validators with react-hook-form
 
 - This project was generated with [Vite](https://vitejs.dev/guide/) version 5.3.1
 ```bash
-npm create vite@latest react-rules -- --template react-ts
+npm create vite@latest react-form-validators -- --template react-ts
 ```
 - React - Version 18.3.1
 - Node - Version 20.12.2
