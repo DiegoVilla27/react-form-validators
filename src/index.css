@@ -26,6 +26,9 @@ form {
     text-align: center;
     text-transform: uppercase;
   }
+  .input-error {
+    border: 1px solid red;
+  }
   input {
     height: 40px;
     border-radius: 4px;
@@ -43,5 +46,9 @@ form {
     color: white;
     cursor: pointer;
     text-transform: uppercase;
+  }
+  button:disabled {
+    opacity: 0.5;
+    cursor: not-allowed;
   }
 }
